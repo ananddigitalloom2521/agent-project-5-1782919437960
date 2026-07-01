@@ -1,0 +1,1 @@
+{"name": "vacation-requests", "version": "1.0.0", "description": "", "main": "src/index.js", "scripts": {"start": "node src/index.js"}, "keywords": [], "author": "", "license": "MIT", "dependencies": {"express": "^4.17.1", "mongodb": "^3.6.4", "mongoose": "^6.0.12", "dotenv": "^10.0.0"}}
